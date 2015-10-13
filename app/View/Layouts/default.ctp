@@ -22,15 +22,18 @@
 <body>
 <div id="container" class="grid">
   <header>
-    <div class="col_6 column">
+    <div class="col_4 column">
       <a href="<?php echo $this->webroot; ?>"><h1>Simple<strong>Jobs</strong></h1></a>
     </div>
-    <div class="col_6 column right">
+    <div class="col_6 column right welcome">
+      <?php if(AuthComponent::user('id')) : ?>
+        <h6>Welcome <strong><?php echo $userData['username']; ?></strong></h6>
+        <a href="<?php echo $this->webroot; ?>users/logout">Logout</a>
+      <?php endif; ?>
+    </div>
+    <div class="col_2 column right">
       <form id="add_job_link" action="<?php $this->webroot; ?>jobs/add">
-        <button class="large green">
-          <i class="fa fa-plus"></i>
-          Add Job
-        </button>
+        <button class="large green"><i class="fa fa-plus"></i>Add Job</button>
       </form>
     </div>
   </header>
@@ -51,7 +54,7 @@
   </div>
   <div class="clearfix"></div>
   <footer>
-    <p>Copyright @; 2014, SimpleJobs, All Rights Reserved</p>
+    <p>Copyright &copy; 2014, SimpleJobs, All Rights Reserved</p>
   </footer>
 </div> <!-- End Grid -->
 </body>

@@ -4,7 +4,7 @@ class JobsController extends AppController {
 
   public function index(){
     $cat_options = array(
-        'order' => array('Category.name' => 'asc')
+        'order' => array('Category.name' => 'desc')
       );
 
     $categories = $this->Job->Category->find('all', $cat_options);
@@ -50,7 +50,7 @@ class JobsController extends AppController {
     }
 
     $cat_options = array(
-        'order' => array('Category.name' => 'asc')
+        'order' => array('Category.name' => 'desc')
       );
 
     $categories = $this->Job->Category->find('all', $cat_options);
@@ -90,5 +90,78 @@ class JobsController extends AppController {
     $this->set('title_for_layout', $job['Job']['title']);
 
     $this->set('job',$job);
+  }
+
+  public function add() {
+    $cat_options = array(
+      'order' => array('Category.name' => 'asc')
+    );
+    $categories = $this->Job->Category->find('list', $cat_options);
+    $this->set('categories', $categories);
+
+    $types = $this->Job->Type->find('list');
+    $this->set('types', $types);
+
+    if($this->request->is('post')){
+      $this->Job->create();
+
+      $this->request->data['Job']['user_id'] = $this->Auth->user('id');
+
+      if($this->Job->save($this->request->data)){
+        $this->Session->setFlash(__('Your job has been listed.'));
+        return $this->redirect(array('action' => 'index'));
+      }
+
+      $this->Session->setFlash(__('Unable to list your job. Please try again.'));
+    }
+  }
+
+  public function edit($id) {
+    $cat_options = array(
+      'order' => array('Category.name' => 'asc')
+    );
+    $categories = $this->Job->Category->find('list', $cat_options);
+    $this->set('categories', $categories);
+
+    $types = $this->Job->Type->find('list');
+    $this->set('types', $types);
+
+    if(!$id) {
+      throw new NotFoundException(__('Invalid job listing'));
+    }
+
+    $job = $this->Job->findById($id);
+
+    if(!$job) {
+      throw new NotFoundException(__('Invalid job listing'));
+    }
+    
+    if($this->request->is(array('job','put'))){
+      $this->Job->id = $id;
+
+      if($this->Job->save($this->request->data)){
+        $this->Session->setFlash(__('Your job has been updated.'));
+        return $this->redirect(array('action' => 'index'));
+      }
+
+      $this->Session->setFlash(__('Unable to edit your job. Please try again.'));
+    }
+
+    if(!$this->request->data) {
+      $this->request->data = $job;
+    }
+  }
+
+  public function delete($id) {
+    if ($this->request->is('post') && !$this->request->is('put')) {
+      throw new MethodNotAllowedException();
+    }
+
+    if ($this->Job->delete($id)) {
+      $this->Session->setFlash(
+            __('The job with id: %s has been deleted.', h($id))
+      );
+      return $this->redirect(array('action' => 'index'));
+    }
   }
 }
