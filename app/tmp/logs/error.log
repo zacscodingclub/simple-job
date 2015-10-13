@@ -1,0 +1,1920 @@
+2015-10-13 15:34:42 Error: [MissingControllerException] Controller class JobsController could not be found.
+Exception Attributes: array (
+  'class' => 'JobsController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 15:35:24 Error: [MissingActionException] Action JobsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'index',
+)
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 15:36:18 Error: [MissingActionException] Action JobsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'index',
+)
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 15:37:33 Error: [MissingActionException] Action JobsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'index',
+)
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 15:47:44 Error: [MissingViewException] View file "Jobs\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Jobs\\index.ctp',
+)
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#4 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-13 16:07:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/kickstart.css
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:07:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/style.css
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:12:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:13:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:13:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:14:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:14:32 Error: [MissingActionException] Action JobsController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'add',
+)
+Request URL: /simple_jobs/jobs/add
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 16:14:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:14:48 Error: [MissingActionException] Action JobsController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'add',
+)
+Request URL: /simple_jobs/jobs/add
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 16:14:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:14:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:14:55 Error: [MissingControllerException] Controller class Login.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Login.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/login.html
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:14:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:16:09 Error: [MissingControllerException] Controller class Login.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Login.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/login.html
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:16:09 Error: Fatal Error (4): syntax error, unexpected '<' in [D:\xampp\htdocs\simple_jobs\app\View\Layouts\default.ctp, line 42]
+2015-10-13 16:16:09 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /simple_jobs/login.html
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 42)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 42, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 42, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 16:16:48 Error: [MissingControllerException] Controller class Login.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Login.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/login.html
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:16:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:16:52 Error: [MissingControllerException] Controller class LoginController could not be found.
+Exception Attributes: array (
+  'class' => 'LoginController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/login
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:16:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:16:53 Error: [MissingControllerException] Controller class RegisterController could not be found.
+Exception Attributes: array (
+  'class' => 'RegisterController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/register
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:16:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:16:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:16:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:17:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:17:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:17:33 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/users/register
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:17:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:17:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:19:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:19:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:20:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:21:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:21:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:21:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:22:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:22:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:22:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:22:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:23:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:23:13 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 16:23:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:23:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:23:17 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 16:23:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:24:17 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 16:24:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:24:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:24:22 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 16:24:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:25:01 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 16:25:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:25:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:25:06 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 16:25:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:25:08 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/users/register
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:25:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:25:10 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/users/login
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:25:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:25:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:30:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:30:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:31:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:32:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:44:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:52:32 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [D:\xampp\htdocs\simple_jobs\app\View\Jobs\index.ctp, line 6]
+2015-10-13 16:52:32 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 6, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 6, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 16:52:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:52:46 Error: [MissingActionException] Action JobsController::browse() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'browse',
+)
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 16:52:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:52:50 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [D:\xampp\htdocs\simple_jobs\app\View\Jobs\index.ctp, line 6]
+2015-10-13 16:52:50 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 6, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 6, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 16:52:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:57:34 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [D:\xampp\htdocs\simple_jobs\app\View\Jobs\index.ctp, line 6]
+2015-10-13 16:57:34 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 6, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 6, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 16:57:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:58:50 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [D:\xampp\htdocs\simple_jobs\app\View\Jobs\index.ctp, line 6]
+2015-10-13 16:58:50 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 6, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 6, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 16:58:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 16:59:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:01:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:03:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:03:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:05:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:06:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:06:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:06:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:07:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:08:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:09:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:09:40 Error: [MissingActionException] Action JobsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'view',
+)
+Request URL: /simple_jobs/jobs/view/17
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 17:09:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:09:45 Error: [MissingActionException] Action JobsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'view',
+)
+Request URL: /simple_jobs/jobs/view/2
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 17:09:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:11:23 Error: Fatal Error (4): syntax error, unexpected '?>', expecting ':' in [D:\xampp\htdocs\simple_jobs\app\View\Jobs\index.ctp, line 8]
+2015-10-13 17:11:23 Error: [FatalErrorException] syntax error, unexpected '?>', expecting ':'
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 8, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 8, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 17:11:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:11:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:12:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:15:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:15:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:16:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:17:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:38:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:38:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:41:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:42:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:42:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:43:05 Error: Fatal Error (1): Call to a member function find() on a non-object in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 18]
+2015-10-13 17:43:05 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 18, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 18, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 17:43:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:43:18 Error: Fatal Error (1): Call to a member function find() on a non-object in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 18]
+2015-10-13 17:43:18 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 18, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 18, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 17:43:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:44:05 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 18]
+2015-10-13 17:44:05 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 18, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 18, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 17:44:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:44:07 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 18]
+2015-10-13 17:44:07 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 18, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 18, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 17:44:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:44:09 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 18]
+2015-10-13 17:44:09 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 18, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 18, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 17:44:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:44:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:44:19 Error: Fatal Error (1): Call to a member function find() on a non-object in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 18]
+2015-10-13 17:44:19 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 18, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 18, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 17:44:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:45:23 Error: Fatal Error (1): Call to a member function find() on a non-object in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 21]
+2015-10-13 17:45:23 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 21)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 21, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 21, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 17:45:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:45:53 Error: Fatal Error (1): Call to a member function find() on a non-object in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 22]
+2015-10-13 17:45:53 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 22, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 22, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 17:45:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:45:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:45:56 Error: Fatal Error (1): Call to a member function find() on a non-object in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 22]
+2015-10-13 17:45:56 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 22)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 22, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\\xampp\\htdocs...', 22, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 17:45:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:46:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:47:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:48:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:49:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:49:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:49:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:50:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:50:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:50:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:50:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:50:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:50:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:58:40 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/users/register
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:58:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:58:42 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/users/login
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:58:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 17:58:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:02:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:02:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:02:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:03:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:07:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:08:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:09:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:10:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:10:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:11:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:11:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:11:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:11:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:15:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:15:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:15:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:16:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:16:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:16:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:17:07 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 32]
+2015-10-13 18:17:07 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 32, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 32, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 18:17:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:17:24 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 31]
+2015-10-13 18:17:24 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 31)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 31, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 31, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 18:17:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:17:46 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/users/login
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:17:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:17:48 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 33]
+2015-10-13 18:17:48 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 33, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 33, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 18:17:49 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 33]
+2015-10-13 18:17:49 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 33)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 33, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 33, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 18:17:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:18:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:18:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:18:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:18:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:18:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:22:21 Error: Fatal Error (4): syntax error, unexpected '&&' (T_BOOLEAN_AND) in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 38]
+2015-10-13 18:22:21 Error: [FatalErrorException] syntax error, unexpected '&&' (T_BOOLEAN_AND)
+Request URL: /simple_jobs/jobs/browse
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 38)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 38, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 38, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 18:22:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:22:56 Error: Fatal Error (4): syntax error, unexpected ')' in [D:\xampp\htdocs\simple_jobs\app\Controller\JobsController.php, line 38]
+2015-10-13 18:22:56 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /simple_jobs/
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 38)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 38, Array)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\\xampp\\htdocs...', 38, Array)
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Core\App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-13 18:22:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:23:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:23:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:23:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:23:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:24:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:24:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:24:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:24:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:24:52 Error: [MissingActionException] Action JobsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'view',
+)
+Request URL: /simple_jobs/jobs/view/4
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-13 18:24:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:29:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:29:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:29:20 Error: [MissingViewException] View file "Jobs\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Jobs\\view.ctp',
+)
+Request URL: /simple_jobs/jobs/view/1
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 D:\xampp\htdocs\simple_jobs\lib\Cake\Controller\Controller.php(960): View->render(NULL, NULL)
+#2 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 D:\xampp\htdocs\simple_jobs\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#4 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-10-13 18:29:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:31:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:31:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:31:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:33:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:33:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:34:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:36:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:36:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:37:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:37:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:37:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-13 18:37:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /simple_jobs/css/css/img/gray_jean.png
+Stack Trace:
+#0 D:\xampp\htdocs\simple_jobs\app\webroot\index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
